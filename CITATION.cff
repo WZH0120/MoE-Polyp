@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: BKAI-Small polyp Dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Zihuang
+    family-names: Wu
+    email: 1874wzh@gmail.com
+repository-code: 'https://github.com/WZH0120/MoE-Polyp'
+keywords:
+  - Polyp Segmentation
+license: MIT
