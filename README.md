@@ -1,3 +1,5 @@
+# [MMAsia 2024] MoE-Polyp: Shifting More Attention to Small Polyp Segmentation via Mixture-of-Experts
+
 # MoE-Polyp Dataset
 You can download the MoE-Polyp Dataset via the following Google Drive link: [https://drive.google.com/drive/folders/1S0qgj1AG96tqSUGb6WguV3UqJblkwQ6V?usp=sharing](https://drive.google.com/drive/folders/1S0qgj1AG96tqSUGb6WguV3UqJblkwQ6V?usp=sharing)
 
